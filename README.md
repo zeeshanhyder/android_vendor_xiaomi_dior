@@ -10,5 +10,5 @@ Vendor blobs are proprietary firmware files needed to run WiFi, sound, RIL and v
 $ cd /android/source/vendor/xiaomi
 ```
 ```sh
-$ git clone ssh://git@github.com:zeeshanhyder/android_vendor_xiaomi_dior.git -b <branch_name>
+$ git clone ssh://git@github.com:zeeshanhyder/android_vendor_xiaomi_dior.git -b ubuntu-touch
 ```
